@@ -5,7 +5,7 @@ Data Sources: Instagram (main and alt), Twitter, and historical data (past album
 Outcome: A machine learning model that uses the data to make predictions.
 
 
-**Goals for Your Project**
+**Goals for my Project**
 Build a predictive model to determine when Playboi Carti will drop an album.
 Collect, clean, and process data from Instagram, Twitter, and historical album behaviors.
 Create a backend for data processing and prediction.
